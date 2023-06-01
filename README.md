@@ -5,71 +5,71 @@ A MERN stack based project on social media application. It is completely working
 Featurs included in this project:
 user features:
 
-register and login users.
+-register and login users.
 
-post images can be uploaded using camera or file system.
+-post images can be uploaded using camera or file system.
 
-pagination on every pages.
+-pagination on every pages.
 
-Dark mode.
+-Dark mode.
 
-copy link of post.
+-copy link of post.
 
-report post for spam.
+-report post for spam.
 
-search other users by username.
+-search other users by username.
 
-user suggestions menu.
+-user suggestions menu.
 
-saved posts page.
+-saved posts page.
 
-delete posts and comments.
+-delete posts and comments.
 
-admin panel is included.
+-admin panel is included.
 
-Explore page to view other posts by random users.
+-Explore page to view other posts by random users.
 
-profile page.
+-profile page.
 
-edit profile page user data.
+-edit profile page user data.
 
-password is stored in database in encrypted format with salt.
+-password is stored in database in encrypted format with salt.
 
-create and edit posts.
+-create and edit posts.
 
-like ,comment, share and edit posts.
+-like ,comment, share and edit posts.
 
-posts include text(caption) and image(s).
+-posts include text(caption) and image(s).
 
-comment on posts.
+-comment on posts.
 
-reply comments.
+-reply comments.
 
-like commets.
+-like commets.
 
-profile page shows user details and posts with following and followers menu.
+-profile page shows user details and posts with following and followers menu.
 
-Admin features:
+-Admin features:
 
-admin can create or assign other admin accounts.
+-admin can create or assign other admin accounts.
 
-admin can see posts reported by more than specified number of users.
+-admin can see posts reported by more than specified number of users.
 
-admin can delete those reported posts.
+-admin can delete those reported posts.
 
-What you need to run this application:
+-What you need to run this application:
 
 Node
 MongoDB or Mongo Atlas
 
-How to run this application
+$ How to run this application
 
-Make sure MongoDB is running on your system or online.
-include MongoDB database link in .env file.
-Clone this repository
-Open command line in the cloned folder,
-To install dependencies for backend, run npm install in main folder.
-To run backend type command node server in main folder.
-To install dependencies for frontend , run npm install in /client folder.
-To run frontend type command npm start in /client folder.
-Open localhost:3000 in the browser. And application will be up and running. 
+-Make sure MongoDB is running on your system or online.
+-include MongoDB database link in .env file.
+-Clone this repository
+-Open command line in the cloned folder,
+-To install dependencies for backend, run npm install in main folder.
+-To run backend type command node server in main folder.
+-To install dependencies for frontend , run npm install in /client folder.
+-To run frontend type command npm start in /client folder.
+-Open localhost:3000 in the browser. And application will be up and running. 
